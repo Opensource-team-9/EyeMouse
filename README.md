@@ -1,7 +1,7 @@
 # EYE MOUSE
 
 <h3>숙명여자대학교 인공지능학과 오픈소스프로그래밍 팀프로젝트;</h3> <br>
-<p style= " color: gray; text-decoration : underline;" >개발기간: 5월 2주 ~ 6월 2주 </p>
+<U>개발기간: 5월 2주 ~ 6월 2주 </U>
 
 <h2>주제:</h2>
 안구 움직임을 이용한 마우스 (Eye Mouse)
